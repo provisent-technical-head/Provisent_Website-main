@@ -29,7 +29,7 @@ export default function AboutPage() {
     { year: '2020', event: 'Reached 100K+ students globally during rapid growth phase' },
     { year: '2021', event: 'Introduced AI-powered learning paths and personalization' },
     { year: '2022', event: 'Expanded to 500K+ active learners across 120+ countries' },
-    { year: '2024', event: 'Became industry leader in affordable quality education' },
+    { year: '2025', event: 'Became industry leader in affordable quality education' },
   ]
 
   const team = [
