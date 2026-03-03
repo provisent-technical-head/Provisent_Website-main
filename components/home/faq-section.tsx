@@ -23,11 +23,6 @@ export default function FAQSection() {
         'Yes! Upon completion, you receive a verified certificate that you can add to your LinkedIn profile and resume. Our certificates are recognized by leading companies worldwide.',
     },
     {
-      question: 'Can I get a refund if I\'m not satisfied?',
-      answer:
-        'Absolutely. We offer a 30-day money-back guarantee. If you\'re not satisfied with the course, contact us for a full refund, no questions asked.',
-    },
-    {
       question: 'Is there live support available?',
       answer:
         'Yes! We offer live Q&A sessions with instructors, 24/7 community support, and dedicated student success coaches to help you succeed.',
