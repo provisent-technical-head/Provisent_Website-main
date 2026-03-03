@@ -69,10 +69,7 @@ export default function ContactPage() {
       question: 'How do I enroll in a program?',
       answer: 'Simply click the "Enroll Now" button on any program page, fill in your details, and submit. You\'ll receive access instructions via WhatsApp within minutes.',
     },
-    {
-      question: 'Can I get a refund?',
-      answer: 'Yes, we offer a 7-day money-back guarantee if you\'re not satisfied with your purchase. No questions asked.',
-    },
+
     {
       question: 'Do I get a certificate after completion?',
       answer: 'Yes, all our programs include completion certificates that are recognized by industry leaders globally.',
